@@ -2,3 +2,5 @@
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas456sawant&theme=monokai" alt="tejas456sawant" />
+
+<img src="https://komarev.com/ghpvc/?username=tejas456sawant&color=ea1f6a&style=flat" alt="tejas456sawant" />
